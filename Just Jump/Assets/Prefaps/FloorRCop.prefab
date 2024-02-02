@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4210142101235580431}
   - component: {fileID: 2750159883288257680}
   - component: {fileID: 1710852974912315145}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FloorRCop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2674138186839940592}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: ed25e26b5f7c16849b2f259b9ec608bc, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
